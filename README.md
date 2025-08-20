@@ -8,6 +8,8 @@ This project is a deep learning -based object detection system developed to help
 <img width="1517" height="982" alt="Ekran görüntüsü 2025-08-19 022809" src="https://github.com/user-attachments/assets/04a205c2-9957-4266-b686-3833341b8f5a" />
 <img width="1095" height="668" alt="Ekran görüntüsü 2025-08-19 022401" src="https://github.com/user-attachments/assets/972c70bf-7362-4650-a43e-470c8fc5ed80" />
 <img width="989" height="974" alt="Ekran görüntüsü 2025-08-20 143240" src="https://github.com/user-attachments/assets/cca3f556-639e-45e6-9a83-4c6c76a1002b" />
+<img width="1560" height="920" alt="image" src="https://github.com/user-attachments/assets/2ff5c0c2-5f40-4328-925c-c19295bf49d4" />
+
 ## 📊 Results and Performance
 
 ### Loss Grafiği
